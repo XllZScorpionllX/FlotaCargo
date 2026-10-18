@@ -1,17 +1,17 @@
 # FLOTACARGO
 
-Sistema de gestión de mantenimiento para flotas de carga.
+Fleet maintenance management system for cargo trucks.
 
-## Descripción
+## Description
 
-Plataforma web que permite a las empresas de transporte gestionar el mantenimiento preventivo y correctivo de sus vehículos de carga, ofreciendo servicios como cambio de aceite, revisión de frenos, alineación de llantas y diagnóstico de motor.
+FLOTACARGO is a web platform designed to help logistics and transport companies manage preventive and corrective maintenance for their cargo fleets. The system offers services such as oil changes, brake inspection, tire alignment, and engine diagnostics, all through a modern and responsive web interface.
 
-## Tecnologías utilizadas
+## Technologies Used
 
-- HTML5
-- CSS3 (Flexbox, Grid, Variables)
-- JavaScript (ES6+)
-- FontAwesome (iconos)
-- Git y GitHub (control de versiones)
+- HTML5 (Semantic and non-semantic structure)
+- CSS3 (Flexbox, Grid, Custom Variables, Animations)
+- JavaScript (ES6+, DOM Manipulation, Events)
+- FontAwesome (Icons)
+- Git and GitHub (Version control)
 
-## Estructura del proyecto
+## Project Structure
